@@ -14,7 +14,7 @@ Librosa library is used to extract MFCC features and then CNN model was trained,
 Here's training and validation accuracy of model
 ![Screenshot](images/screenshot1.png)
 
-## Use:
+### Use:
 The project can simply run in Python version: 3.7.6 by following steps 
 1. Install necessary libraries by simply running:
 ```pip install -r requirments.txt```
@@ -26,7 +26,7 @@ The project can simply run in Python version: 3.7.6 by following steps
 #### Tip: Gunshot audio can be downloaded to test from here: http://soundbible.com/2120-9mm-Gunshot.html
 
 
-
+### Using Docker image
 Docker Image is available here: https://drive.google.com/file/d/17xlKG7q9TYxGRUM4WPpHWg3QGrqGS_HO/view?usp=sharing
 
 Load Docker Image by 
