@@ -1,0 +1,11 @@
+numpy
+pandas
+tensorflow==1.13.1
+seaborn
+librosa
+SoundFile
+tables
+keras==2.2.4
+flask
+flask_restful
+
