@@ -1,7 +1,7 @@
 # Binary-classification-of-audio
 Binary classification of audio based on gunshot audio
 
-This project was done for coding interview. Below are the details in brief:
+This project was done for coding interview by Intelense. Below are the details in brief:
 1. Build an tensorflow model that can identify high peak in an audio or a video data that is caused by a surge, example gunshot accident scream etc
 2. Build a flask api where the API can receive the video url or audio url to be passed as an argument
 3. The program should be able to provide the output via response or stored locally as a file
@@ -23,7 +23,7 @@ The project can simply run in Python version: 3.7.6 by following steps
 3. Install and open Advanced Rest Client and choose options accordingly as shown below, choose any short .wav file to test
 ![Screenshot](images/screenshot2.png)
 
-#### Tip: Gunshot audio can be downloaded to test from here: http://soundbible.com/2120-9mm-Gunshot.html
+#### Tip: Gunshot audio can be downloaded to test from here: http://soundbible.com/tags-gun.html
 
 
 ### Using Docker image
