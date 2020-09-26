@@ -14,8 +14,8 @@ Librosa library is used to extract MFCC features and then CNN model was trained,
 Here's training and validation accuracy of model
 ![Screenshot](images/screenshot1.png)
 
-# Use:
-The project can be simple run in Python version: 3.7.6 by following steps 
+## Use:
+The project can simply run in Python version: 3.7.6 by following steps 
 1. Install necessary libraries by simply running:
 ```pip install -r requirments.txt```
 2. Run flask app by:
@@ -23,7 +23,7 @@ The project can be simple run in Python version: 3.7.6 by following steps
 3. Install and open Advanced Rest Client and choose options accordingly as shown below, choose any short .wav file to test
 ![Screenshot](images/screenshot2.png)
 
-Tip: Gunshot audio can be downloaded to test from here: http://soundbible.com/2120-9mm-Gunshot.html
+#### Tip: Gunshot audio can be downloaded to test from here: http://soundbible.com/2120-9mm-Gunshot.html
 
 
 
@@ -35,6 +35,6 @@ Load Docker Image by
 and run by 
 ```sudo docker run -p 5000:5000 my_docker_flask:latest```
 
-and then use ARC for testing.
+and then use ARC for testing as shown above.
 
 
